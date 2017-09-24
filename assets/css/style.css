@@ -56,8 +56,8 @@ body{
 }
 #connectMe img:hover {background-color: grey;}
 #connectMe img{
-	width: 70px;
-	height: 70px;
+	width: 51px;
+	height: 51px;
 	float: left;
 
 }
